@@ -1,0 +1,8 @@
+//файл обнуляющих стилей
+@import "nullstyle.scss";
+.block1 {
+   color: red;
+   span {
+      color: green;
+   }
+}
